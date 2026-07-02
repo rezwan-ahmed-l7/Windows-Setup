@@ -80,8 +80,6 @@ Although the software and tools included in this repository are open-source proj
 
 <p align="center">
 
-<!-- Home/Desktop Screenshot -->
-
 <img width="900" alt="Screenshot 2026-06-27 180059" src="https://github.com/user-attachments/assets/4e391816-9251-4007-ae76-d4786260465e"/>
 
 </p>
@@ -118,19 +116,7 @@ Before applying these customizations, make sure you have installed:
 
 # Installation
 
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/rezwan-ahmed-l7/Windows-Customization.git
-```
-
-## 2. Copy the Required Configuration Files
-
-Copy the desired configuration files into their respective locations.
-
-## 3. Restart Windows Terminal / PowerShell
-
-Restart the applications to apply the changes.
+Installation processes are given in their separate folders.
 
 ---
 
@@ -152,7 +138,7 @@ Special thanks to the developers of:
 - PowerShell
 - Fastfetch
 - Lucida Fonts
-- Other open-source customization tools used throughout this setup.
+- Other open-source customization tools are used throughout this setup.
 
 ---
 
@@ -166,10 +152,6 @@ B.Sc. Engg. in CSE Student | Aspiring Software Developer & Learner
 
 # Support
 
-<p align="center">
-  <br>
   If you found this repository useful for customizing your Windows development environment, consider giving it a ⭐ on GitHub.
-  <br>
-    Thank you for visiting!
-  <br>
-</p>
+
+  Thank you for visiting!
