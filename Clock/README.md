@@ -10,8 +10,7 @@ The provided **Rainmeter.zip** contains both the **Rainmeter installer** and the
 
 <p align="center">
 
-<img width="900" alt="Screenshot 2026-07-12 140718" src="Screenshot 2026-07-12 140718" src="https://github.com/user-attachments/assets/6ee7a6b0-e657-40f8-a189-a5d61d06cab1" />
-</p>
+<img width="900" alt="Screenshot 2026-07-12 140718" src="https://github.com/user-attachments/assets/c98a773f-b72d-4743-a6ea-1c6677d987d3" />
 
 ---
 
@@ -102,8 +101,6 @@ Enter a layout name and click **Save**.
 This allows you to restore your desktop setup later.
 
 ---
-
-# Notes
 
 > Note !
 >
