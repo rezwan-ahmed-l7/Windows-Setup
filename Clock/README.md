@@ -1,34 +1,121 @@
-# Clock
+# About
 
-Custom desktop clock widget for Windows 11.
+This folder contains the desktop clock setup used in my Windows customization.
 
-## About
-A minimal and aesthetic desktop clock setup to enhance the home screen.
-
-## Features
-- Clean and minimal design
-- Customizable colors and fonts
-- Lightweight resource usage
-- Always visible / transparent options
-
-## Installation Guide
-
-1. Extract the files from the folder
-2. Run the main executable or script
-3. Configure position, color, and transparency from the settings menu
-4. Set it to start with Windows (optional)
-
-## Configuration Options
-- Clock format (12/24 hour)
-- Color themes
-- Font selection
-- Opacity adjustment
-
-## Screenshots
-
-
+The provided **Rainmeter.zip** contains both the **Rainmeter installer** and the **desktop clock skin**, Simply following the installation guide below to recreate the same setup.
 
 ---
 
-**Author:** Rezwan Ahmed  
-**Purpose:** Aesthetic desktop customization for better productivity.
+# Preview
+
+<p align="center">
+
+<img width="900" alt="Screenshot 2026-07-12 140718" src="Screenshot 2026-07-12 140718" src="https://github.com/user-attachments/assets/6ee7a6b0-e657-40f8-a189-a5d61d06cab1" />
+</p>
+
+---
+
+# What's Included
+
+This folder contains:
+
+- `Rainmeter.zip`
+  - Rainmeter Installer
+  - Desktop Clock Skin (`.rmskin`)
+- Preview Image
+- Installation Guide
+
+---
+
+# Installation Guide
+
+## Step 1 — Extract the ZIP File
+
+Download and extract the provided **Rainmeter.zip** file
+
+---
+
+## Step 2 — Install Rainmeter
+
+Open the extracted folder and run the **Rainmeter Installer**.
+
+Complete the installation using the default settings.
+
+---
+
+## Step 3 — Install the Clock Skin
+
+Locate the **`.rmskin`** file inside the extracted folder.
+
+Double-click it.
+
+When the **Rainmeter Skin Installer** appears, click **Install**.
+
+---
+
+## Step 4 — Load the Clock
+
+Open **Rainmeter**.
+
+Go to
+
+```
+Manage
+```
+
+Select the installed **Clock** skin and click
+
+```
+Load
+```
+
+The desktop clock will now appear on your desktop.
+
+---
+
+## Step 5 — Customize
+
+Personalize the widget by:
+
+- Moving it anywhere on your desktop
+- Changing the size
+- Adjusting transparency
+- Changing fonts and colors
+- Locking the widget position
+
+---
+
+## Step 6 — Save Layout
+
+After customizing the widget,
+
+Open
+
+```
+Rainmeter
+→ Manage
+→ Layouts
+```
+
+Enter a layout name and click **Save**.
+
+This allows you to restore your desktop setup later.
+
+---
+
+# Notes
+
+> Note !
+>
+> - No additional downloads are required.
+>
+> - All required installation files are already included in **Rainmeter.zip**.
+>
+> - The installation files included in this folder are provided for convenience. Rainmeter and the original desktop clock skin belong to their respective creators.
+
+---
+
+# References
+
+- **Rainmeter Official Website:** https://www.rainmeter.net/
+- **Original Clock Skin:** https://visualskins.com/skin/mond
