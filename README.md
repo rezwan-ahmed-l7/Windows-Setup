@@ -154,4 +154,4 @@ B.Sc. Engg. in CSE Student | Aspiring Software Developer & Learner
 
   If you found this repository useful for customizing your Windows development environment, consider giving it a ⭐ on GitHub.
 
-  Thank you for visiting!
+ Thank you for visiting!
